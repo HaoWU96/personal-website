@@ -1,0 +1,10 @@
+# 这里的 title 是网页上显示的文字，url 是对应文件的 permalink
+main:
+  - title: "About"
+    url: /personal-website/
+  - title: "Publications"
+    url: /personal-website/publications/
+  - title: "Teaching"
+    url: /personal-website/teaching/
+  - title: "CV"
+    url: /personal-website/cv/
