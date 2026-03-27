@@ -1,0 +1,41 @@
+# 站点设置
+title: "Hao WU"
+locale: "en-US"
+encoding: "utf-8"
+
+# 极简学术主题配置 (Minimal Mistakes)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# 强制白色背景主题
+minimal_mistakes_skin: "default" 
+
+# 核心：个人资料设置 (显示在左侧边栏)
+author:
+  name     : "Hao WU"
+  avatar   : "/assets/images/profile.jpg" # 请将照片放入此路径
+  bio      : "Postdoctoral Researcher in Mathematics"
+  location : "Graz, Austria"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:haowu.nankai@gmail.com"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0007-3635-4387"
+    - label: "arXiv"
+      icon: "ai ai-arxiv"
+      url: "https://arxiv.org/search/math?searchtype=author&query=WU%2C+H"
+
+# 导航栏菜单
+navigation:
+  - title: "Home"
+    url: /personal-website/
+  - title: "CV"
+    url: /personal-website/cv/
+
+# Jekyll 基础设置
+url: "https://haowu96.github.io"
+baseurl: "/personal-website"
