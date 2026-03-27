@@ -1,0 +1,35 @@
+---
+# 必须保留这两行开头的短横线，Jekyll 才会处理此文件
+---
+
+@import "{{ site.theme }}";
+
+// 全局字体大小调整
+html {
+  font-size: 15px; // 默认通常是 16px 或 18px，调小至 15px 或 14px
+}
+
+body {
+  font-family: "Times New Roman", Times, serif; // 模仿 Trujillo 的学术衬线体
+  line-height: 1.5; // 稍微收紧行间距
+  color: #333;
+}
+
+// 调整标题大小
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.4em; border-bottom: 1px solid #eee; margin-top: 1.5em; }
+h3 { font-size: 1.2em; }
+
+// 调整左侧边栏文字（个人信息部分）
+.sidebar {
+  font-size: 0.9em; 
+  p, li {
+    margin-bottom: 0.5em;
+  }
+}
+
+// 调整列表间距（论文列表）
+.publications, .archive__item {
+  font-size: 0.95em;
+  margin-bottom: 10px;
+}
