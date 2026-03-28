@@ -39,3 +39,12 @@ navigation:
 # Jekyll 基础设置
 url: "https://haowu96.github.io"
 baseurl: "/personal-website"
+
+# 移除底部版权信息和主题驱动声明
+footer:
+  links:
+    - label: " " # 留空
+      icon: ""
+  # 关键设置：将以下两项设为 false 或留空
+  copyright: false
+  powered_by: false
