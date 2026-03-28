@@ -25,12 +25,13 @@ author_profile: true
 
 4.  **J. J. P. Veerman, D. Ralston, F. M. Tangerman, H. Wu.** Birkhoff Measures, Birkhoff Sums, and Discrepancies.
     2024.
+    [[arXiv](https://arxiv.org/abs/2511.22802)] 
 
-5.  **H. Wu.** Absolute bounds for ergodic deviations of toral translations relative to triangles in $\mathbb{I}^{2}$.
+6.  **H. Wu.** Absolute bounds for ergodic deviations of toral translations relative to triangles in $\mathbb{I}^{2}$.
     2021.
     [[arXiv](https://arxiv.org/abs/2112.00003)]
 
-6.  **H. Wu.** Ergodic deviations of degenerate multidimensional actions symmetric convex bodies.
+7.  **H. Wu.** Ergodic deviations of degenerate multidimensional actions symmetric convex bodies.
     2022.
     [[arXiv](https://arxiv.org/abs/2112.06131)]
 
