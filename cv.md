@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV & Publications"
+title: "CV"
 permalink: /cv/
 author_profile: true # 核心：启用左侧个人资料栏
 ---
