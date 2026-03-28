@@ -15,7 +15,7 @@ minimal_mistakes_skin: "default"
 # 核心：个人资料设置 (显示在左侧边栏)
 author:
   name     : "Hao WU"
-  avatar   : "/assets/images/profile.jpg" # 请将照片放入此路径
+  avatar   : "/assets/images/profile2.jpg" # 请将照片放入此路径
   bio      : "Postdoctoral Researcher in Mathematics"
   location : "Graz, Austria"
   links:
