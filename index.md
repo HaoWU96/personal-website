@@ -15,4 +15,4 @@ I obtained my Ph.D. in Mathematics in the end of 2022 from **Université Paris C
 ### Research Interests
 - Stochastic properties of dynamical systems of zero entropy (e.g., higher dimensional irrational rotations and interval exchange transformations).
 - Applications of homogeneous dynamics and harmonic analysis to number theory, in particular Diophantine approximations.
-- Ergodic theory of infinite measure dynamical systems, such as skew products over irrational rotations and interval exchange transformations.
+- Infinite ergodic theory, such as skew products over irrational rotations and interval exchange transformations.
