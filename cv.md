@@ -1,11 +1,41 @@
 ---
-layout: single
-title: "CV"
+layout: default
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true # 核心：启用左侧个人资料栏
 ---
 
-### Education
-- **Ph.D. in Mathematics**, Université Paris Cité, 2017–2022.
-- **M.S. in Mathematics**, Université Pierre-et-Marie-Curie (Paris VI), 2016–2017.
-- **B.S. in Mathematics**, Nankai University, 2012–2016. (Ranking: 1/21).
+# Curriculum Vitae
+
+[Download Full CV in PDF](/personal-website/CV_HaoWu_2026_with_publications.pdf)
+
+## Academic Positions
+
+* **2026 – 2028: Postdoctoral Researcher**, Graz University of Technology, Graz, Austria.  
+  *Working with Prof. Christoph Aistleitner.*
+
+* **2022 – 2025: Postdoctoral Researcher**, University of Zürich, Zürich, Switzerland.  
+  *Working with Prof. Corinna Ulcigrai.*
+
+* **2020 – 2022: Temporary Teaching and Researching Position (ATER)**, Université Paris Cité, Paris, France.
+
+---
+
+## Education
+
+* **2017 Oct. – 2022 Nov. Ph.D. in Mathematics**, Université Paris Cité, Paris, France.  
+  * **Advisor:** Prof. Bassam Fayad.  
+  * **Thesis:** *On the deviations of ergodic averages on the torus and their applications.*
+
+* **2016 Sep. – 2017 Sep. M.S. in Mathematics**, Université Pierre-et-Marie-Curie, Paris, France.  
+  * *Scholarship from: Fondation Sciences Mathématiques de Paris (FSMP).*
+
+* **2012 Sep. – 2016 Jun. B.S. in Mathematics**, Nankai University, Tianjin, China.  
+  * *(Ranking: 1/21)*
+
+---
+
+## Languages
+
+* **Chinese:** Mother tongue.
+* **English:** Fluent.
+* **French:** Intermediate to Fluent.
