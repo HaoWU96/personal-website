@@ -31,4 +31,4 @@ permalink: /teaching/
 ---
 
 ### Other Academic Activities
-*For a full list of talks and seminars, please refer to my [CV](/personal-website/cv/) or [Publications](/personal-website/publications/) page.*
+*For a full list of talks and seminars, please refer to my [CV](/personal-website/cv/).*
