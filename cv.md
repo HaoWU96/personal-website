@@ -4,10 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
-[Download Full CV in PDF](/personal-website/CV_HaoWu_2026_March.pdf)
-
 ## Academic Positions
 
 * **2026 – 2028: Postdoctoral Researcher**, Graz University of Technology, Graz, Austria.  
@@ -39,3 +35,7 @@ permalink: /cv/
 * **Chinese:** Mother tongue.
 * **English:** Fluent.
 * **French:** Intermediate to Fluent.
+
+# Curriculum Vitae
+
+* [Download Full CV in PDF](/personal-website/CV_HaoWu_2026_March.pdf)
