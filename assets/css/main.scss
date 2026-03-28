@@ -2,59 +2,52 @@
 ---
 @import "{{ site.theme }}";
 
-// 1. 全局正文字体调整为 16px
+// 1. 全局字体与字号
 html {
   font-size: 16px; 
 }
 
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.6;
-  color: #333;
   background-color: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
 }
 
-// 2. 侧边栏（Sidebar）字体大幅度调大
-.sidebar {
-  font-size: 16px !important; // 强制提升到 16px，与正文一致
-  line-height: 1.5;
-  background-color: #f8f9fa;
-  padding: 20px;
-  border-right: 1px solid #eee;
+// 2. 核心：增加两边空隙 (居中布局)
+// 模仿 Trujillo 网站的页面宽度
+#main, .masthead, .page__footer {
+  max-width: 1100px; // 限制最大宽度，不再铺满全屏
+  margin-left: auto; // 左右自动边距实现居中
+  margin-right: auto;
+  padding-left: 20px;  // 在小屏幕上留出最小边距
+  padding-right: 20px;
+}
 
-  // 侧边栏内的姓名加粗加大
+// 3. 侧边栏样式调整
+.sidebar {
+  font-size: 16px !important;
+  background-color: #f8f9fa;
+  border-radius: 4px; // 稍微圆角
+  padding: 15px;
+  
   h3, .author-name {
     font-size: 1.4rem !important;
     font-weight: 700;
-    margin-top: 15px;
-    color: #000;
-  }
-
-  // 侧边栏链接和文字
-  p, li, a {
-    font-size: 15px; // 稍微比正文小 1px 以显层次，或设为 16px 保持一致
-    margin-bottom: 8px;
-    color: #444;
-  }
-
-  // 社交图标大小
-  .fa-fw, .ai {
-    font-size: 1.1em;
-    margin-right: 8px;
   }
 }
 
-// 3. 正文标题调整
+// 4. 正文标题与间距
 h2 {
   font-size: 1.6rem;
   border-bottom: 2px solid #f0f0f0;
-  padding-bottom: 8px;
   margin-top: 1.8em;
-  font-weight: 600;
-  color: #111;
+  padding-bottom: 8px;
 }
 
-// 4. 列表间距优化
-li {
-  margin-bottom: 10px;
+// 隐藏底部版权（如你之前要求的）
+.page__footer-copyright, .page__footer-follow {
+  display: none !important;
 }
