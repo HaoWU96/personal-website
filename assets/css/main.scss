@@ -6,7 +6,7 @@
 
 // 完全对标 Trujillo 网站的字体设置
 html {
-  font-size: 14px; // Trujillo 网站的基准字号
+  font-size: 16px; // Trujillo 网站的基准字号
 }
 
 body {
@@ -21,8 +21,8 @@ h1, h2, h3, h4 {
   font-family: "Open Sans", sans-serif;
   font-weight: 500;
   color: #111;
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 22px;
+  margin-bottom: 12px;
 }
 
 h2 {
@@ -38,6 +38,6 @@ p {
 
 // 左侧边栏字体微调
 .sidebar {
-  font-size: 13px; // 侧边栏通常比正文略小
+  font-size: 15px; // 侧边栏通常比正文略小
   background-color: #f5f5f5; // 淡淡的灰色背景
 }
