@@ -1,4 +1,5 @@
 ---
+[Download Full CV (PDF)](/personal-website/CV_HaoWu_2026_March.pdf)
 layout: single
 author_profile: true # 核心：启用左侧个人资料栏
 title: "About Me"
@@ -15,5 +16,3 @@ I obtained my Ph.D. in Mathematics in the end of 2022 from **Université Paris C
 - Stochastic properties of dynamical systems of zero entropy (e.g., higher dimensional irrational rotations and interval exchange transformations).
 - Applications of homogeneous dynamics and harmonic analysis to number theory, in particular Diophantine approximations.
 - Ergodic theory of infinite measure dynamical systems, such as skew products over irrational rotations and interval exchange transformations.
-
-//### [Download Full CV (PDF)](/personal-website/CV_HaoWu_2026_March.pdf)
