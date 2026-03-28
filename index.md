@@ -1,5 +1,4 @@
 ---
-[Download Full CV (PDF)](/personal-website/CV_HaoWu_2026_March.pdf)
 layout: single
 author_profile: true # 核心：启用左侧个人资料栏
 title: "About Me"
