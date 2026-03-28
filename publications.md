@@ -19,22 +19,22 @@ author_profile: true
 
 ### Submitted / Preprints
 
-1.  **H. Wu.** Absolute bounds for ergodic deviations of linear form sequences relative to intervals in T¹.
+3.  **H. Wu.** Absolute bounds for ergodic deviations of linear form sequences relative to intervals in T¹.
     2021.
     [[arXiv](https://arxiv.org/abs/2111.14981)]
 
-2.  **J. J. P. Veerman, D. Ralston, F. M. Tangerman, H. Wu.** Birkhoff Measures, Birkhoff Sums, and Discrepancies.
+4.  **J. J. P. Veerman, D. Ralston, F. M. Tangerman, H. Wu.** Birkhoff Measures, Birkhoff Sums, and Discrepancies.
     2024.
 
-3.  **H. Wu.** Absolute bounds for ergodic deviations of toral translations relative to triangles in $\mathbb{I}^{2}$.
+5.  **H. Wu.** Absolute bounds for ergodic deviations of toral translations relative to triangles in $\mathbb{I}^{2}$.
     2021.
     [[arXiv](https://arxiv.org/abs/2112.00003)]
 
-4.  **H. Wu.** Ergodic deviations of degenerate multidimensional actions symmetric convex bodies.
+6.  **H. Wu.** Ergodic deviations of degenerate multidimensional actions symmetric convex bodies.
     2022.
     [[arXiv](https://arxiv.org/abs/2112.06131)]
 
 ### In Preparation
 
-1.  **C. Ulcigrai, M. Bromberg, H. Wu.** A Temporal central limit theorem for real valued cocycles of generic intervals over irrational rotations.
+7.  **C. Ulcigrai, M. Bromberg, H. Wu.** A Temporal central limit theorem for real valued cocycles of generic intervals over irrational rotations.
     (Soon available on arXiv).
