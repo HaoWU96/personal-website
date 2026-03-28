@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-[Download Full CV in PDF](/personal-website/CV_HaoWu_2026_with_publications.pdf)
+[Download Full CV in PDF](/personal-website/CV_HaoWu_2026_March.pdf)
 
 ## Academic Positions
 
