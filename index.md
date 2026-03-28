@@ -16,4 +16,4 @@ I obtained my Ph.D. in Mathematics in the end of 2022 from **Université Paris C
 - Applications of homogeneous dynamics and harmonic analysis to number theory, in particular Diophantine approximations.
 - Ergodic theory of infinite measure dynamical systems, such as skew products over irrational rotations and interval exchange transformations.
 
-### [Download Full CV (PDF)](/personal-website/CV_HaoWu_2026_March.pdf)
+/### [Download Full CV (PDF)](/personal-website/CV_HaoWu_2026_March.pdf)
