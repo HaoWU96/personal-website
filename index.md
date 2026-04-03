@@ -7,7 +7,7 @@ permalink: /
 
 I am currently a **Postdoctoral researcher** in **Graz University of Technology**, working with [**Prof. Christoph Aistleitner**](https://www.math.tugraz.at/~aistleitner/).
 
-Previously I was a postdoc at the **University of Zürich** (2022–2025), working with [**Prof. Corinna Ulcigrai**](https://www.math.uzh.ch/index.php?id=people&key1=5610).
+Previously I was a postdoc at the **University of Zürich** (2022–2025), working with [**Prof. Corinna Ulcigrai**](https://user.math.uzh.ch/ulcigrai/).
 
 I obtained my Ph.D. in Mathematics in the end of 2022 from **Université Paris Cité**, under the supervision of [**Prof. Bassam Fayad**](https://webusers.imj-prg.fr/~bassam.fayad/).
 
